@@ -1,5 +1,5 @@
 {% set name = "abqpy" %}
-{% set version = "2025.10" %}
+{% set version = "2026.10" %}
 {% set python_min = "3.8" %}
 
 package:
