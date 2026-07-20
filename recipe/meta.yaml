@@ -1,5 +1,5 @@
 {% set name = "abqpy" %}
-{% set version = "2020.9" %}
+{% set version = "2020.10" %}
 {% set python_min = "3.8" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 59b3c543d94a5dd0427252e88bf6513a2814d8f61dfc337e0f97bd6865169a55
+  sha256: 316c9161a652c8e29974bf40f6ef9ddf1565216706ac13eae676ab0576ff85e3
 
 build:
   noarch: python
